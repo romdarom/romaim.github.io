@@ -13,6 +13,6 @@ git init
 git add -A
 git commit -m 'deploy'
 
-git push -f git@github.com:romdarom/romdarom.github.io.git main
+git push -f git@github.com:romdarom/romdarom.github.io.git master
 
 cd -
