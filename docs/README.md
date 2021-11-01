@@ -2,4 +2,4 @@
 
 ## Second title
 
-[new page](/new-page.md)
+[new page](/katas.md)
